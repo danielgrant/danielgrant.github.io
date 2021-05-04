@@ -20,12 +20,7 @@
 				"on": "https://danielgrant.github.io/bfi/collections_assets/CA-4212697/canvas/214",
 				"resource": {
 					"@type": "dctypes:Image",
-					"@id": "https://danielgrant.github.io/bfi/collections_assets/0x060a2b340101010201010f12133f361059f0a800899005806155645106EF7E9C/full/full/0/default.jpg",
-					"service": {
-						"@context": "http:/iiif.io/api/image/2/context.json",
-						"@id": "https://danielgrant.github.io/bfi/collections_assets/0x060a2b340101010201010f12133f361059f0a800899005806155645106EF7E9C",
-						"profile": "http:/iiif.io/api/image/2/level2.json"
-					}
+					"@id": "https://danielgrant.github.io/bfi/collections_assets/0x060a2b340101010201010f12133f361059f0a800899005806155645106EF7E9C/full/full/0/default.jpg"
 				}
 			}]
 		}, {
@@ -40,12 +35,7 @@
 				"on": "https://danielgrant.github.io/bfi/collections_assets/CA-4212697/canvas/215",
 				"resource": {
 					"@type": "dctypes:Image",
-					"@id": "https://danielgrant.github.io/bfi/collections_assets/0x060a2b340101010201010f1213a72e04db1f210189900580754c645106EF7E9C/full/full/0/default.jpg",
-					"service": {
-						"@context": "http:/iiif.io/api/image/2/context.json",
-						"@id": "https://danielgrant.github.io/bfi/collections_assets/0x060a2b340101010201010f1213a72e04db1f210189900580754c645106EF7E9C",
-						"profile": "http:/iiif.io/api/image/2/level2.json"
-					}
+					"@id": "https://danielgrant.github.io/bfi/collections_assets/0x060a2b340101010201010f1213a72e04db1f210189900580754c645106EF7E9C/full/full/0/default.jpg"
 				}
 			}]
 		}]
