@@ -4,7 +4,6 @@
 	"@id": "https://danielgrant.github.io/bfi/collections_assets/manifest.json",
 	"label": "BFI Universal Viewer Test",
 	"attribution": "BFI National Archive",
-	"logo": "https://bfinationalarchivemanifest.bfi.org.uk/BFI_MONO_LOGO_NEG.png",
 	"sequences": [{
 		"@type": "sc:Sequence",
 		"viewingHint": "paged",
