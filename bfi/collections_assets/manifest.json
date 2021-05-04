@@ -11,7 +11,25 @@
 			"canvases": [
 				{
 					"@type": "sc:Canvas",
-					"@id": "https://danielgrant.github.io/bfi/collections_assets/CA-4212697/canvas/214",
+					"@id": "https://danielgrant.github.io/bfi/collections_assets/canvas/213",
+					"label": " - 213",
+					"width": 6000,
+					"height": 8000,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://danielgrant.github.io/bfi/collections_assets/canvas/213",
+							"resource": {
+								"@type": "dctypes:Image",
+								"@id": "https://danielgrant.github.io/bfi/collections_assets/213/default.jpg"
+							}
+						}
+					]
+				},
+				{
+					"@type": "sc:Canvas",
+					"@id": "https://danielgrant.github.io/bfi/collections_assets/canvas/214",
 					"label": " - 214",
 					"width": 6000,
 					"height": 8000,
@@ -19,17 +37,17 @@
 						{
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
-							"on": "https://danielgrant.github.io/bfi/collections_assets/CA-4212697/canvas/214",
+							"on": "https://danielgrant.github.io/bfi/collections_assets/canvas/214",
 							"resource": {
 								"@type": "dctypes:Image",
-								"@id": "https://danielgrant.github.io/bfi/collections_assets/0x060a2b340101010201010f12133f361059f0a800899005806155645106EF7E9C/full/full/0/default.jpg"
+								"@id": "https://danielgrant.github.io/bfi/collections_assets/214/default.jpg"
 							}
 						}
 					]
 				},
 				{
 					"@type": "sc:Canvas",
-					"@id": "https://danielgrant.github.io/bfi/collections_assets/CA-4212697/canvas/215",
+					"@id": "https://danielgrant.github.io/bfi/collections_assets/canvas/215",
 					"label": " - 215",
 					"width": 6000,
 					"height": 8000,
@@ -37,17 +55,17 @@
 						{
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
-							"on": "https://danielgrant.github.io/bfi/collections_assets/CA-4212697/canvas/215",
+							"on": "https://danielgrant.github.io/bfi/collections_assets/canvas/215",
 							"resource": {
 								"@type": "dctypes:Image",
-								"@id": "https://danielgrant.github.io/bfi/collections_assets/0x060a2b340101010201010f1213a72e04db1f210189900580754c645106EF7E9C/full/full/0/default.jpg"
+								"@id": "https://danielgrant.github.io/bfi/collections_assets/215/default.jpg"
 							}
 						}
 					]
 				},
 				{
 					"@type": "sc:Canvas",
-					"@id": "https://danielgrant.github.io/bfi/collections_assets/CA-4212697/canvas/216",
+					"@id": "https://danielgrant.github.io/bfi/collections_assets/canvas/216",
 					"label": " - 216",
 					"width": 6000,
 					"height": 8000,
@@ -55,17 +73,17 @@
 						{
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
-							"on": "https://danielgrant.github.io/bfi/collections_assets/CA-4212697/canvas/216",
+							"on": "https://danielgrant.github.io/bfi/collections_assets/canvas/216",
 							"resource": {
 								"@type": "dctypes:Image",
-								"@id": "https://danielgrant.github.io/bfi/collections_assets/0x060a2b340101010201010f12137b0573433b1d02899005808343645106EF7E9C/full/full/0/default.jpg"
+								"@id": "https://danielgrant.github.io/bfi/collections_assets/216/default.jpg"
 							}
 						}
 					]
 				},
 				{
 					"@type": "sc:Canvas",
-					"@id": "https://danielgrant.github.io/bfi/collections_assets/CA-4212697/canvas/217",
+					"@id": "https://danielgrant.github.io/bfi/collections_assets/canvas/217",
 					"label": " - 217",
 					"width": 6000,
 					"height": 8000,
@@ -73,10 +91,28 @@
 						{
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
-							"on": "https://danielgrant.github.io/bfi/collections_assets/CA-4212697/canvas/217",
+							"on": "https://danielgrant.github.io/bfi/collections_assets/canvas/217",
 							"resource": {
 								"@type": "dctypes:Image",
-								"@id": "https://danielgrant.github.io/bfi/collections_assets/0x060a2b340101010201010f12130a4f6c1957e20289900580a0f9645106EF7E9C/full/full/0/default.jpg"
+								"@id": "https://danielgrant.github.io/bfi/collections_assets/217/default.jpg"
+							}
+						}
+					]
+				},
+				{
+					"@type": "sc:Canvas",
+					"@id": "https://danielgrant.github.io/bfi/collections_assets/canvas/218",
+					"label": " - 218",
+					"width": 6000,
+					"height": 8000,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://danielgrant.github.io/bfi/collections_assets/canvas/218",
+							"resource": {
+								"@type": "dctypes:Image",
+								"@id": "https://danielgrant.github.io/bfi/collections_assets/218/default.jpg"
 							}
 						}
 					]
