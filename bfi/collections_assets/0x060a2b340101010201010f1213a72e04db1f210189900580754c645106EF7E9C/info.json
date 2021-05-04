@@ -1,0 +1,86 @@
+{
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://danielgrant.github.io/bfi/collections_assets/0x060a2b340101010201010f1213a72e04db1f210189900580754c645106EF7E9C",
+    "protocol": "http://iiif.io/api/image",
+    "width": 3497,
+    "height": 2485,
+    "sizes": [
+        {
+            "width": 109,
+            "height": 78
+        },
+        {
+            "width": 219,
+            "height": 155
+        },
+        {
+            "width": 437,
+            "height": 311
+        },
+        {
+            "width": 874,
+            "height": 621
+        },
+        {
+            "width": 1749,
+            "height": 1243
+        },
+        {
+            "width": 3497,
+            "height": 2485
+        }
+    ],
+    "tiles": [
+        {
+            "width": 512,
+            "height": 512,
+            "scaleFactors": [
+                1,
+                2,
+                4,
+                8,
+                16,
+                32
+            ]
+        }
+    ],
+    "profile": [
+        "http://iiif.io/api/image/2/level2.json",
+        {
+            "formats": [
+                "jpg",
+                "tif",
+                "gif",
+                "png"
+            ],
+            "maxArea": 8690045,
+            "qualities": [
+                "bitonal",
+                "default",
+                "gray",
+                "color"
+            ],
+            "supports": [
+                "regionByPx",
+                "sizeByW",
+                "sizeByWhListed",
+                "cors",
+                "regionSquare",
+                "sizeByDistortedWh",
+                "canonicalLinkHeader",
+                "sizeByConfinedWh",
+                "sizeByPct",
+                "jsonldMediaType",
+                "regionByPct",
+                "rotationArbitrary",
+                "sizeByH",
+                "baseUriRedirect",
+                "rotationBy90s",
+                "profileLinkHeader",
+                "sizeByForcedWh",
+                "sizeByWh",
+                "mirroring"
+            ]
+        }
+    ]
+}
